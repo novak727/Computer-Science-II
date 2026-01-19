@@ -1,0 +1,2 @@
+# ZyBook Challenges and Additional Labs
+Here, you will find challenge activities from the zyBook interactive textbook used for my Computer Science II class. These were saved for a course-long portfolio. The numbering is the order in the book that the challenge activities were completed in. Most challenge activities are programs that are only a single C++ source code file. 3 additional labs that were unlocked for exam prepation are also present here, in their own folders.
