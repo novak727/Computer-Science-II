@@ -1,5 +1,5 @@
 # Computer Science II
-This repository holds all programs made during my Computer Science II class. Each folder contains a program, now with multiple source code files. Please check each project to find which files will need to be compiled to use each program.
+This repository holds all programs made during my Computer Science II class. Each folder contains a program, now with multiple source code files. Please check each project to find which files will need to be compiled to use each program. The Individual-Programs folder contains programs that only require a single C++ source code file to compile and run the program.
 # C++ Installation and Usage
 The programs in this repository can be executed using the C++ language and the g++ compiler.
 
